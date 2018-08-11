@@ -19,3 +19,7 @@ Route::get('about',function(){
 
 	return view('about');
 });
+
+Route::get('feature', function() {
+    //some reporting feature functoin
+});
