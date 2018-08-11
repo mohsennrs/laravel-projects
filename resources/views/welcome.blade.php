@@ -4,6 +4,6 @@
     
     </head>
     <body>
-        <H1>Hello World!</H1>
+        <H1>this is laravel!</H1>
     </body>
 </html>
